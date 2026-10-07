@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "SS69K7WYkTs=",
+  "success": true,
+  "projectFilePath": "C:\\D-drive-backup\\QuestBond_AI_ML\\AIMLCode-main1\\AI-ML-Projects\\AI-ML-Projects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.4\\microsoft.bcl.asyncinterfaces.9.0.4.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.ml\\5.0.0\\microsoft.ml.5.0.0.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.ml.cpumath\\5.0.0\\microsoft.ml.cpumath.5.0.0.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.ml.dataview\\5.0.0\\microsoft.ml.dataview.5.0.0.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.ml.mkl.components\\5.0.0\\microsoft.ml.mkl.components.5.0.0.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.ml.mkl.redist\\5.0.0\\microsoft.ml.mkl.redist.5.0.0.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\system.codedom\\9.0.4\\system.codedom.9.0.4.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\system.collections.immutable\\9.0.4\\system.collections.immutable.9.0.4.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\system.numerics.tensors\\9.0.4\\system.numerics.tensors.9.0.4.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\system.threading.channels\\9.0.4\\system.threading.channels.9.0.4.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\sivas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
